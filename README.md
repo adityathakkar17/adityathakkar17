@@ -1,6 +1,6 @@
 ## Hi, I am Aditya! (he/him) 
 ### Quick Intro
-👋 Hi, I'm Aditya Thakkar (he/him) - a full-stack software engineer. I have worked in software engineering roles for companies like GlobalLogic(Hitachi) and HHAeXchange
+👋 Hi, I'm Aditya Thakkar (he/him) - a full-stack software engineer. I have worked in software engineering roles for companies like [**GlobalLogic(Hitachi)**](https://www.globallogic.com/) and [**HHAeXchange**](https://www.hhaexchange.com/)
 
 🎓 I am a CS grad at the [**California State University Long Beach**](https://www.csulb.edu/). My previous degree was a B.Tech in Computer Engineering at [**Dharmsinh Desai University**](https://www.ddu.ac.in/).
 
